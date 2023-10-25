@@ -36,3 +36,5 @@ function longestConsec(strarr, k) {
   }
   return result;
 }
+
+// or
