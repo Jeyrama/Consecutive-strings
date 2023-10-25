@@ -18,3 +18,6 @@ Examples:
   In the same way:
   longest_consec(["zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"], 2) --> "abigailtheta"
 */
+
+
+// Solution
